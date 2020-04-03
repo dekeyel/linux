@@ -49,6 +49,7 @@ sudo snap install datagrip --classic
 sudo snap install rider  --classic
 sudo snap install clion --classic
 sudo snap install sublime-text --classic
+sudo snap install discord
 
 Хром по умолчанию, телега, скрин на автозапуск
 
